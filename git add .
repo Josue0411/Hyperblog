@@ -1,0 +1,15 @@
+[33mcommit 777405177b2b9ea8b353389432a9052a4ee898e0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Josue Alvarez <josuealvarez348@gmail.com>
+Date:   Fri Jun 24 12:19:09 2022 -0400
+
+    Cambios al archivo de historia para agregarle edad
+
+[1mdiff --git a/Historia.txt b/Historia.txt[m
+[1mindex 5de896e..12b6aba 100644[m
+[1m--- a/Historia.txt[m
+[1m+++ b/Historia.txt[m
+[36m@@ -1 +1 @@[m
+[31m-Yos soy Josue[m
+\ No newline at end of file[m
+[32m+[m[32mYos soy Josue y tengo 19 años[m
+\ No newline at end of file[m
