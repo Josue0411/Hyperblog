@@ -4,4 +4,4 @@ Estoy aprendiendo Git
 
 Y quiero ser un excelente programador
 
-Hoy estoy aprendiendo Git
+Hoy estoy aprendiendo Git, HTML y CSS
